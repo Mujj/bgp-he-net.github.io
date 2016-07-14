@@ -1,0 +1,54 @@
+table.toppeertable {
+	background-color: #96ACC6;
+	margin-left: 15px;
+	font-size: 12px;
+	border: 0;
+	width: 350px;
+	min-width: 350px;
+	max-width: 350px;
+	overflow: hidden;
+}
+table.toppeertable th {
+	background-color: #96ACC6;
+	border: none;
+	border-bottom: 1px solid #000066;
+	padding: 1px;
+	padding-right: 15px;
+	padding-top: 3px;
+	margin: 0px;
+}
+table.toppeertable td {
+	padding: 2px;
+	padding-left: 8px;
+	padding-right: 8px;
+	border: none;
+}
+.toppeertableodd {
+	background-color: #B6C6D7;
+}
+.toppeertableeven {
+	background-color: #D7E0E9;
+}
+.piechart {
+	
+}
+.asinfotext {
+	border: 1px solid #000066;
+	width: 715px;
+	min-width: 350px;
+	padding-left: 25px;
+	padding-bottom: 10px;
+	padding-top: 7px;
+}
+.asleft {
+	float: left;
+	width: 325px;
+}
+.asright {
+	margin-left: 15px;
+	float: left;
+	width: 325px;
+}
+.asgraph {
+	padding-top: 20px;
+}
